@@ -1,0 +1,1 @@
+import{r as a,o as r,q as t,v as n,t as o}from"./entry.lrouSs_8.js";import{a as s}from"./auth.fLjoHweV.js";const m={__name:"redirect",setup(c){const e=a(null);return r(async()=>{e.value=s(),await e.value.signinRedirectCallback(),console.log("Redirected "),t("/")}),(l,i)=>(o(),n("h1",null,"REDIRECTING"))}};export{m as default};
