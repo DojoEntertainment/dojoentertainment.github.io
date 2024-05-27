@@ -1,3 +1,8 @@
+---
+layout: post
+title: 5 Best Drinking Games to Player Online
+---
+
 In this age of digital connectivity, hanging out with friends online has become a norm. To spice up your virtual gatherings, why not try some drinking games? Here are five of the best drinking games to play online with friends.
 
 ### 1. Truth or Dare
