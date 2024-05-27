@@ -193,7 +193,7 @@ img {
   margin: 0;
   color: #ff9800;
   cursor: pointer;
-  font-family: 'Bungee', sans-serif;;
+  font-family: 'Bungee', sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -212,7 +212,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Bungee', sans-serif;
   font-size: 18px;
 
   @include mobile {
@@ -224,7 +224,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #ff9800;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
