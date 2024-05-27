@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: The Best Drinks for Playing Drinking Games
+---
 
 Drinking games are a staple of fun gatherings, whether in person or online. The right drink can enhance the experience, keeping the vibes high and the laughs rolling. Whether you’re playing classics like Truth or Dare or new favorites like Meyer, choosing the perfect drink is key. Here’s a guide to the best drinks to enjoy while playing drinking games.
 
