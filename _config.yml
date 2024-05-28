@@ -19,16 +19,16 @@ avatar: https://drinkingdojo.com/resources/images/logo/dojoIcon.svg
 footer-links:
   dribbble:
   email: contact@drinkingdojo.com
-  facebook: https://www.facebook.com/DrinkingDojo
+  facebook: DrinkingDojo
   flickr:
   github:
   instagram:
-  linkedin: https://www.linkedin.com/company/98800908
+  linkedin: company/98800908/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: DrinkingDojo
+  youtube: /@DrinkingDojo
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
