@@ -23,7 +23,7 @@ Stunts like jumping off roofs, climbing tall structures, or performing dangerous
 
 Dares involving fire, such as lighting oneself on fire or playing with fireworks, are extremely hazardous. Burns can cause lasting physical and emotional scars, and in some cases, can be fatal.
 
-![Playing with Fireworks](https://images.pexels.com/photos/1092664/pexels-photo-1092664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)  
+![Playing with Fireworks](https://images.pexels.com/photos/2526105/pexels-photo-2526105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 *Image credit: Pexels*
 
 ## 4. **Illegal Activities**
