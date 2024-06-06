@@ -30,7 +30,7 @@ Dares involving fire, such as lighting oneself on fire or playing with fireworks
 
 Engaging in illegal activities, such as vandalism or theft, not only risks legal consequences but also endangers the person and others around them. Criminal records and fines are a high price to pay for a moment of bravado.
 
-![Graffiti](https://images.pexels.com/photos/1906826/pexels-photo-1906826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)  
+![Graffiti](https://images.pexels.com/photos/262034/pexels-photo-262034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 *Image credit: Pexels*
 
 ## 5. **Extreme Eating Challenges**
