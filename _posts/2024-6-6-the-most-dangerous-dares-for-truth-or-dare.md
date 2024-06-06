@@ -9,25 +9,43 @@ Truth or Dare has been a staple of parties and gatherings for years, often leadi
 
 Daring someone to drink excessive amounts of alcohol or ingesting other harmful substances can lead to alcohol poisoning, allergic reactions, or even death. The risks associated with these dares far outweigh any potential fun or thrill.
 
+![Drinking Excessive Alcohol](https://www.pexels.com/photo/group-of-people-having-wine-toast-1269025/)  
+*Image credit: Pexels*
+
 ## 2. **Physical Stunts**
 
 Stunts like jumping off roofs, climbing tall structures, or performing dangerous acrobatics can result in severe injuries or fatalities. While they may seem like a test of bravery, the potential for life-altering injuries makes these dares incredibly reckless.
+
+![Climbing Tall Structures](https://www.pexels.com/photo/man-sitting-on-gray-concrete-building-167964/)  
+*Image credit: Pexels*
 
 ## 3. **Playing with Fire**
 
 Dares involving fire, such as lighting oneself on fire or playing with fireworks, are extremely hazardous. Burns can cause lasting physical and emotional scars, and in some cases, can be fatal.
 
+![Playing with Fireworks](https://www.pexels.com/photo/person-holding-fireworks-1092664/)  
+*Image credit: Pexels*
+
 ## 4. **Illegal Activities**
 
 Engaging in illegal activities, such as vandalism or theft, not only risks legal consequences but also endangers the person and others around them. Criminal records and fines are a high price to pay for a moment of bravado.
+
+![Graffiti](https://www.pexels.com/photo/person-spraying-paint-on-the-wall-1906826/)  
+*Image credit: Pexels*
 
 ## 5. **Extreme Eating Challenges**
 
 Eating challenges that involve consuming large quantities of food quickly or eating potentially harmful items can lead to choking, digestive issues, and other health problems. Some challenges may involve allergic reactions or poisoning.
 
+![Eating Challenge](https://www.pexels.com/photo/person-eating-chocolate-cake-291528/)  
+*Image credit: Pexels*
+
 ## 6. **Endangering Personal Safety**
 
 Dares that compromise personal safety, like walking alone in dangerous areas or engaging in risky behaviors with strangers, can have serious consequences. Personal safety should never be taken lightly in the name of fun.
+
+![Walking Alone at Night](https://www.pexels.com/photo/man-standing-near-lighted-post-lamp-during-night-time-220836/)  
+*Image credit: Pexels*
 
 ## Conclusion
 
@@ -39,3 +57,4 @@ Stay safe and have fun!
 
 ---
 *Note: This blog post is for informational purposes only. Always exercise caution and common sense when playing any game.*
+
