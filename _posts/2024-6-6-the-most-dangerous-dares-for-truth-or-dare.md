@@ -1,4 +1,7 @@
-# The Most Dangerous Dares for Truth or Dare
+---
+layout: post
+title: The Most Dangerous Dares for Truth or Dare
+---
 
 Truth or Dare has been a staple of parties and gatherings for years, often leading to laughs, shocking revelations, and memorable moments. However, some dares cross the line from thrilling to dangerous, risking physical harm or serious consequences. In this post, we'll explore some of the most dangerous dares that have made headlines and why they should be avoided.
 
