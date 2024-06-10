@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+Crawl-delay: 10
+Sitemap: https://blog.drinkingdojo.com/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /no-google/
+
+User-agent: Bingbot
+Disallow: /no-bing/
+
+# Block specific bots
+User-agent: BadBot
+Disallow: /
+
+# Allow specific bots
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot-Image
+Allow: /
