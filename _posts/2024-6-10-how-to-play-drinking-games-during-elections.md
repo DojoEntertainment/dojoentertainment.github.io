@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Play Drinking Games During Elections: EU Parliament Edition
+title: How to Play Drinking Games During Elections, EU Parliament Edition
 ---
 
 Elections can be both exciting and nerve-wracking, but they also present a unique opportunity to have some fun with friends while staying engaged with the political process. The recent EU Parliament Election was a great example of how to turn a serious event into an enjoyable social gathering with the right drinking games. Here’s a guide on how to host an election night party with some themed drinking games.
