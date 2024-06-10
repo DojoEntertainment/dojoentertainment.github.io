@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ultimate Guide: Understanding the Differences Between Waterfall, Kings Cup, and Ring of Fire 🎉🍻
+title: The Ultimate Guide: Understanding the Differences Between Waterfall, Kings Cup, and Ring of Fire
 ---
 When it comes to party games, few can rival the enduring popularity and excitement of **Waterfall**, **Kings Cup**, and **Ring of Fire**. These card games have become staples at gatherings, creating memorable moments and often hilarious outcomes. While they share similarities, each game has unique rules and variations that set them apart. Let's dive into the differences between Waterfall, Kings Cup, and Ring of Fire.
 
