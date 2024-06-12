@@ -3,8 +3,6 @@ layout: post
 title: "Worst Dares - Avoid These Disastrous Challenges at Your Next Party"
 ---
 
-# Worst Dares - Avoid These Disastrous Challenges at Your Next Party
-
 Not all dares are created equal. While some dares are fun and thrilling, others can lead to regret and embarrassment. Here’s a list of the worst dares that you should avoid at all costs. These dares might seem funny at first, but they often result in uncomfortable situations or even serious consequences.
 
 ## Top 10 Worst Dares

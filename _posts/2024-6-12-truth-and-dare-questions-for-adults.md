@@ -3,8 +3,6 @@ layout: post
 title: "Truth and Dare Questions for Adults - Spice Up Your Game Night"
 ---
 
-# Truth and Dare Questions for Adults - Spice Up Your Game Night
-
 Truth or Dare is a timeless game that can be a lot of fun, especially for adults looking to add some excitement to their gatherings. Whether you’re at a party, a small get-together, or just having a fun night in, these Truth and Dare questions are designed to bring laughter, reveal secrets, and create unforgettable moments.
 
 ## Top 10 Truth Questions for Adults

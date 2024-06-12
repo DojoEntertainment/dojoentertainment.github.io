@@ -3,8 +3,6 @@ layout: post
 title: "Date Night Dares - Spice Up Your Evening with Truth and Dare"
 ---
 
-# Date Night Dares - Spice Up Your Evening with Truth and Dare
-
 Looking to add some excitement to your date night? Truth and Dare is a classic game that can bring you closer and add a touch of fun and romance to your evening. Here are some of the best date night dares to make your time together memorable and engaging.
 
 ## Top 10 Date Night Dares for Truth and Dare

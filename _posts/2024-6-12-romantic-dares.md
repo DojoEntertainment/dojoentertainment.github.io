@@ -3,8 +3,6 @@ layout: post
 title: "Romantic Dares - Add Some Love to Your Game Night"
 ---
 
-# Romantic Dares - Add Some Love to Your Game Night
-
 Looking to bring a bit of romance into your game night? These romantic dares are perfect for couples or friends who want to add a touch of love and intimacy to their fun. Whether you’re playing Truth or Dare or another daring game, these dares will help create memorable and heartfelt moments.
 
 ## Top 10 Romantic Dares
