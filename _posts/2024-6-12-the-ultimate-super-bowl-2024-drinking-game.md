@@ -5,7 +5,7 @@ title: The Ultimate Super Bowl 2024 Drinking Game
 
 The Super Bowl is not just a football game; it’s a cultural phenomenon. Super Bowl 2024 promises to be an exciting event with thrilling plays, epic commercials, and an unforgettable halftime show. To add even more fun to the festivities, why not play a Super Bowl drinking game? This guide provides all the rules and tips you need to make your Super Bowl party a hit.
 
-![Super Bowl Party](https://images.pexels.com/photos/1161629/pexels-photo-1161629.jpeg)
+![Super Bowl Party](https://images.pexels.com/photos/2207/red-people-outside-sport.jpg)
 
 ### Why Play a Drinking Game During the Super Bowl?
 
