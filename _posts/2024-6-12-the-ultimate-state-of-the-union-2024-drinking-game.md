@@ -3,8 +3,6 @@ layout: post
 title: The Ultimate State of the Union 2024 Drinking Game
 ---
 
-# The Ultimate State of the Union 2024 Drinking Game: Rules & Tips
-
 As we approach the State of the Union 2024, excitement and anticipation are in the air. It's a time when Americans gather to hear the President outline the vision for the year ahead. While some watch with keen political interest, others look for a fun way to engage with the speech. Enter: the State of the Union Drinking Game. This light-hearted activity can turn the annual address into an entertaining event for friends and family. Here's everything you need to know to get started.
 
 ![Watching State of the Union](https://images.pexels.com/photos/8130865/pexels-photo-8130865.jpeg)
