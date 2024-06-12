@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ultimate Lethal Company Drinking Game Rules and Tips for a Spooky Good Time
+title: The Best Lethal Company Drinking Game Rules and Tips for a Spooky Good Time
 ---
 
 Lethal Company, a cooperative survival horror game by Zeekerss, has taken the gaming community by storm since its early access release on Steam in October 2023. Set in a retrofuturistic world, players navigate abandoned exomoons to collect scrap while avoiding deadly monsters and traps. To add an extra layer of fun to this thrilling experience, we've created the ultimate Lethal Company drinking game. Whether you're playing solo or with friends, these rules will ensure a night of excitement and spooky fun.
