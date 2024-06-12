@@ -49,8 +49,20 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://blog.drinkingdojo.com/understanding-the-differences-between-waterfall-kings-cup-and-ring-of-fire-copy/</loc>
+      <loc>https://blog.drinkingdojo.com/understanding-the-differences-between-waterfall-kings-cup-and-ring-of-fire/</loc>
       <lastmod>2024-06-10</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://blog.drinkingdojo.com/the-ultimate-state-of-the-union-2024-drinking-game/</loc>
+      <lastmod>2024-06-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://blog.drinkingdojo.com/the-ultimate-super-bowl-2024-drinking-game/</loc>
+      <lastmod>2024-06-12</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
