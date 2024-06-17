@@ -6,6 +6,7 @@ title: "Extreme Never Have I Ever - Push Your Limits"
 Are you ready to take the classic game of Never Have I Ever to the next level? Extreme Never Have I Ever is perfect for thrill-seekers and those who love a good challenge. These questions will push your limits and bring out the wild side of your friends. Let’s dive into the most extreme Never Have I Ever questions for your next party.
 
 ## How to Play Extreme Never Have I Ever
+
 The rules are straightforward:
 1. **Gather Your Group**: Get your friends together and make sure everyone is ready for some extreme fun.
 2. **Prepare Your Drinks**: Drinks are optional, but they can add an extra layer of excitement.
