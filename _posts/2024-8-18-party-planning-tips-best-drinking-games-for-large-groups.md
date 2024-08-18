@@ -17,4 +17,4 @@ Planning a party with a large group can be challenging, especially when it comes
 - **Keep Rules Simple:** When dealing with large groups, it’s essential to keep the rules straightforward so that everyone can follow along easily.
 - **Ensure Inclusivity:** Choose games that allow for group participation to ensure everyone is involved and having a good time.
 
-These games are perfect for large groups and will ensure that your party is a hit. For more ideas, check out our detailed guides on [Waterfall](#) and [Fireball](#), and explore daring options in our [Truth or Dare](https://drinkingdojo.com/games/truth-or-dare) category.
+These games are perfect for large groups and will ensure that your party is a hit. For more ideas, check out our detailed guides on [Waterfall](https://drinkingdojo.com/articles/waterfall) and [Fireball](https://drinkingdojo.com/articles/fireball), and explore daring options in our [Truth or Dare](https://drinkingdojo.com/games/truth-or-dare) category.
