@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: "Party Planning Tips: Best Drinking Games for Large Groups"
+---
 
 Planning a party with a large group can be challenging, especially when it comes to choosing the right games. You need drinking games that are fun, easy to explain, and inclusive. Here are some of the best drinking games for large groups that will keep the party lively and entertaining.
 
