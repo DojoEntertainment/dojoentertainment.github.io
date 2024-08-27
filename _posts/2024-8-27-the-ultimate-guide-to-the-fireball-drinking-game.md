@@ -71,7 +71,7 @@ The game concludes when all the cups are empty, and the last cup—the mighty Ki
 
 ## User-Generated Content: Share Your Fireball Stories!
 
-We love hearing from our community! Have you played Fireball at a party recently? Share your funniest or most epic moments in the comments below, or tag us on social media using #FireballDojo. The best stories might even be featured in a future blog post or on our social channels!
+We love hearing from our community! Have you played Fireball at a party recently? Share your funniest or most epic moments, tag us on social media using #FireballDojo. The best stories might even be featured in a future blog post or on our social channels!
 
 ## FAQ Section
 
