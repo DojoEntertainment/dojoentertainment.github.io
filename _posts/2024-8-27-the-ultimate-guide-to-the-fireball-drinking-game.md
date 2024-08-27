@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024-08-27 The Ultimate Guide to the Fireball Drinking Game: Rules, Setup, and Tips"
+title: "The Ultimate Guide to the Fireball Drinking Game: Rules, Setup, and Tips"
 ---
 
 Welcome to Drinking Dojo’s ultimate guide to the Fireball drinking game! Whether you’re looking to spice up your next party or just want to try something new with your friends, Fireball is the perfect drinking game that combines fun, skill, and just a little bit of chaos. Below, we’ll cover everything you need to know about playing Fireball, from the basic setup to the rules, variations, and pro tips.
