@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bengals-Themed Drinking Game: Roar and Pour
+title: Bengals-Themed Drinking Game Roar and Pour
 ---
 
 
