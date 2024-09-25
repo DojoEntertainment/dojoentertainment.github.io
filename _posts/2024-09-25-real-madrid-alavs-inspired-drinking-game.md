@@ -4,8 +4,6 @@ title: Real Madrid Alavés Inspired Drinking Game
 ---
 
 
----
-
 If you are a football fanatic and a fan of Real Madrid or Deportivo Alavés why not take your matchday excitement up a notch with a fun drinking game This game is perfect for gatherings with friends and family and will make watching the match even more thrilling
 
 ## What You Will Need
