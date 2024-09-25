@@ -3,9 +3,6 @@ layout: post
 title: Bengals-Themed Drinking Game Roar and Pour
 ---
 
-
-## Introduction
-
 Are you ready to turn your Bengals game day into an unforgettable party? Look no further! We've got a fun and engaging Bengals-themed drinking game that will have you and your friends roaring with laughter and excitement. This game is perfect for die-hard Bengals fans and casual viewers alike. Just remember to drink responsibly and know your limits.
 
 ## Necessary Materials
