@@ -4,8 +4,6 @@ title: Drinking Game Inspired by Liverpool vs West Ham
 ---
 
 
-## Introduction
-
 Are you a football fan looking for a fun and engaging way to spice up your next Liverpool vs West Ham match experience? Look no further! We've created a drinking game that will keep you and your friends entertained throughout the match. This game is perfect for fans of both teams and even for those who just love the excitement of football.
 
 ## Rules and How to Play
