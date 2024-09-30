@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maggie Smith Drinking Game: A Night of Class and Laughter
+title: Maggie Smith Drinking Game A Night of Class and Laughter
 ---
 
 
