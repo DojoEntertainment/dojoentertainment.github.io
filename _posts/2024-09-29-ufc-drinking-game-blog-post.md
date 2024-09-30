@@ -4,7 +4,6 @@ title: UFC Drinking Game Blog Post
 ---
 
 
-UFC Drinking Game
 
 Are you a fan of UFC and looking to add a little extra excitement to your next fight night? Look no further UFC Drinking Game is here to make your viewing party a knockout. Gather your friends, grab some drinks, and get ready for an evening of high-energy fun. Below are the rules, how to play, and the materials you will need.
 
