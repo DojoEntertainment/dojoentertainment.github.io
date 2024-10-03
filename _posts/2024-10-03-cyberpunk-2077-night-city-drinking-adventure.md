@@ -4,8 +4,6 @@ title: Cyberpunk 2077 Night City Drinking Adventure
 ---
 
 
----
-
 Welcome to the neon-lit streets of Night City where the fun never stops. Inspired by the thrilling world of Cyberpunk 2077 this drinking game will transport you and your friends to a dystopian future filled with intrigue excitement and more than a few shots. Perfect for fans of the game or anyone looking to spice up their night this game is sure to be a hit at your next gathering.
 
 ## What You Will Need
