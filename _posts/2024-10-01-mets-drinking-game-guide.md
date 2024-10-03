@@ -4,8 +4,6 @@ title: Mets Drinking Game Guide
 ---
 
 
-## Introduction
-
 If you are a Mets fan or just looking for a fun way to enjoy the game with friends, this Mets-inspired drinking game is perfect for you. Combining the thrill of baseball with the excitement of a drinking game, it is sure to make any game day unforgettable.
 
 ## Materials Needed
