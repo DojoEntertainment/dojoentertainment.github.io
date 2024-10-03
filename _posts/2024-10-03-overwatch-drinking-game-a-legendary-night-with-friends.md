@@ -4,8 +4,6 @@ title: Overwatch Drinking Game A Legendary Night with Friends
 ---
 
 
----
-
 Welcome to the ultimate Overwatch-themed drinking game blog post. If you are a fan of Blizzard's action-packed team shooter and enjoy a good drink with friends this game is for you. Gather your team and prepare for an evening of fun laughter and perhaps a bit of chaos. Below you will find the rules how to play and what you need to get started. Let's dive in
 
 ## The Basics
