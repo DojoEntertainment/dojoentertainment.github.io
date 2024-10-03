@@ -4,8 +4,6 @@ title: Super Smash Bros Drinking Game Adventure
 ---
 
 
----
-
 Welcome to a fun-filled adventure where gaming and drinks collide in an epic showdown. Inspired by the legendary Super Smash Bros, this drinking game adds a spirited twist to your battles. Whether you're a seasoned brawler or a button-mashing newbie, this game promises laughs, cheers, and maybe a few stumbles. Gather your friends, grab your controllers, and let's dive into the rules and setup of this exhilarating drinking game.
 
 ## How to Play
