@@ -4,8 +4,6 @@ title: FIFA Drinking Game for Soccer Lovers
 ---
 
 
----
-
 If you're a fan of soccer and love a good drink with friends, then we've got the perfect party game for you. Introducing the FIFA Drinking Game, a fun and exciting way to combine your love for the beautiful game with some friendly competition and camaraderie. Whether you're a casual gamer or a FIFA fanatic, this drinking game is sure to spice up your gaming nights. So grab your controllers and your favorite drinks and let's get started.
 
 ## What You'll Need
