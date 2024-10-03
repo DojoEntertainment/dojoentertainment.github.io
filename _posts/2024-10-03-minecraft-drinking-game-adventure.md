@@ -4,9 +4,6 @@ title: Minecraft Drinking Game Adventure
 ---
 
 
----
-
-**Introduction**
 
 If you love the blocky, pixelated world of Minecraft and enjoy a good drink with friends, then you're in for a treat. Imagine combining the creativity and fun of Minecraft with a thrilling drinking game. The Minecraft Drinking Game Adventure is perfect for fans who want to spice up their gameplay with a little spirited fun. So grab your favorite drink, gather your friends, and prepare for a night of crafting, mining, and sipping.
 
