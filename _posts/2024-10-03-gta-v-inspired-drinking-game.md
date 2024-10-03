@@ -4,8 +4,6 @@ title: GTA V Inspired Drinking Game
 ---
 
 
----
-
 Looking for a fun and wild twist on your next gaming night? Try a drinking game inspired by the adrenaline-fueled world of Grand Theft Auto V. This game combines the excitement of GTA V with the unpredictability of a drinking game to provide an unforgettable experience. Gather your friends grab your favorite drinks and dive into the chaos of Los Santos.
 
 ## What You Need
