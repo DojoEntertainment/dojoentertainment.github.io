@@ -7,21 +7,21 @@ title: Minecraft Drinking Game Adventure
 
 If you love the blocky, pixelated world of Minecraft and enjoy a good drink with friends, then you're in for a treat. Imagine combining the creativity and fun of Minecraft with a thrilling drinking game. The Minecraft Drinking Game Adventure is perfect for fans who want to spice up their gameplay with a little spirited fun. So grab your favorite drink, gather your friends, and prepare for a night of crafting, mining, and sipping.
 
-**Materials Needed**
+### Materials Needed
 
 - A copy of Minecraft on your preferred gaming platform
 - Drinks of choice (ensure everyone drinks responsibly)
 - A group of friends ready for a fun adventure
 
-**Setup**
+### Setup
 
 Before diving into the game, make sure everyone is familiar with the rules and has their drinks ready. Have one player host a Minecraft world where everyone can join. It can be a survival or creative mode world depending on how challenging you want the game to be.
 
-**How to Play**
+### How to Play
 
 The Minecraft Drinking Game Adventure is easy to play and follow. Below are the rules and actions that trigger a sip or more.
 
-**Rules**
+### Rules
 
 1. **Starting Off**  
    - Everyone takes a sip when the game begins.
@@ -50,13 +50,13 @@ The Minecraft Drinking Game Adventure is easy to play and follow. Below are the 
    - Finish your drink if someone finds a rare item like a diamond or enchanted book.
    - Everyone takes a sip if the group completes a shared goal like building a house or defeating a boss.
 
-**Additional Tips**
+### Additional Tips
 
 - Always drink responsibly and know your limits.
 - Have non-alcoholic options for those who prefer not to drink alcohol.
 - Consider adding your own personalized rules to suit your group's preferences.
 
-**Conclusion**
+### Conclusion
 
 The Minecraft Drinking Game Adventure is a fantastic way to enjoy the game with friends, bringing laughter and unexpected twists to your blocky world. Remember that the key to a great game is to have fun and ensure everyone is comfortable with the rules. For more exciting drinking games, visit [Drinking Dojo](https://drinkingdojo.com/).
 
