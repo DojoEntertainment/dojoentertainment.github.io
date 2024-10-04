@@ -4,8 +4,6 @@ title: Porto vs Man United Drinking Game
 ---
 
 
----
-
 Welcome to the ultimate drinking game inspired by the intense and historic rivalry between FC Porto and Manchester United. Whether you are a die-hard fan or just looking for a fun way to enjoy the match with friends, this game is sure to add an extra layer of excitement to your viewing experience. So grab your favorite beverage and get ready to cheer your team on with a twist
 
 ## How to Play
