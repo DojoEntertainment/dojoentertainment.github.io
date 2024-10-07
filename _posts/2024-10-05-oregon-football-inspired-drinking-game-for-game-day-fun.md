@@ -4,8 +4,6 @@ title: Oregon Football Inspired Drinking Game for Game Day Fun
 ---
 
 
----
-
 If you're looking for a way to spice up your next Oregon Ducks football watch party, why not try a drinking game? This lively and fun game is perfect for fans who want to add a little extra excitement to their game day experience. Gather your friends, grab your favorite drinks, and get ready for a quacking good time! 
 
 ## How to Play
