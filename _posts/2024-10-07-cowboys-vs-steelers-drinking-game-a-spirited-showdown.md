@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cowboys vs Steelers Drinking Game: A Spirited Showdown
+title: Cowboys vs Steelers Drinking Game A Spirited Showdown
 ---
 
 
