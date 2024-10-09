@@ -4,8 +4,6 @@ title: Taylor Swift Inspired Drinking Game – Shake It Off With Friends
 ---
 
 
----
-
 If you're a Taylor Swift fan and love a good party, we've got the perfect drinking game for you. Inspired by the legendary pop icon herself, this game will have you singing along, reminiscing about past albums, and maybe even discovering new Swiftie favorites. So gather your friends, pour your favorite drinks, and get ready to "Shake It Off"
 
 ## What You'll Need
