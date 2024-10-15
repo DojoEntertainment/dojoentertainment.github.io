@@ -3,9 +3,6 @@ layout: post
 title: 49ers vs Seahawks Game Day Drinking Game
 ---
 
-
-## Introduction
-
 Are you ready to add a little extra excitement to your 49ers vs Seahawks game day experience? Whether you're a die-hard fan or just here for the snacks, this drinking game is sure to keep you entertained. Just remember to drink responsibly and know your limits. Let's dive into the rules and get ready for some football fun
 
 ## Materials Needed
