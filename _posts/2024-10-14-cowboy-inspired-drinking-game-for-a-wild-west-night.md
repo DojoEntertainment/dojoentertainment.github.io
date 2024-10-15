@@ -3,9 +3,6 @@ layout: post
 title: Cowboy Inspired Drinking Game for a Wild West Night
 ---
 
-
----
-
 Saddle up for a rootin' tootin' good time with your friends by playing a drinking game inspired by the rugged life of cowboys. Perfect for parties or just a casual night in, this game will have you feeling like you're riding the open range. So grab your boots, hats, and drinks and get ready to test your cowboy skills.
 
 ## Game Overview
