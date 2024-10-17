@@ -3,9 +3,6 @@ layout: post
 title: One Direction Drinking Game Fun for Fans and Friends
 ---
 
-
----
-
 If you're a fan of One Direction and looking to spice up your next gathering with friends, why not play a drinking game inspired by the iconic boy band? This One Direction drinking game is easy to play, requires minimal materials, and promises loads of fun and laughter. So grab your favorite drink and let the games begin
 
 ## What You'll Need
