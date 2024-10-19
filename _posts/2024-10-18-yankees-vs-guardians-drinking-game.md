@@ -4,8 +4,6 @@ title: Yankees vs Guardians Drinking Game
 ---
 
 
----
-
 If you are a baseball fan looking to spice up your game night with some friends, the Yankees vs Guardians drinking game is a perfect choice. Combining America's favorite pastime with a splash of spirited fun, this game guarantees an unforgettable evening. Get ready to cheer on your favorite team while enjoying a refreshing drink or two. Here is how to play
 
 ## Materials Needed
