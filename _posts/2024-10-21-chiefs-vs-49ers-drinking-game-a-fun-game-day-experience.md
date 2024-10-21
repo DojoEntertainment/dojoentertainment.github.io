@@ -4,8 +4,6 @@ title: Chiefs vs 49ers Drinking Game A Fun Game Day Experience
 ---
 
 
----
-
 Football season is in full swing, and what better way to celebrate the excitement of a Chiefs vs 49ers matchup than with a spirited drinking game? Whether you're a die-hard fan or just in it for the fun, this game is perfect for adding some extra excitement to your game day experience. So gather your friends, grab your drinks, and get ready to play!
 
 ## Materials Needed
