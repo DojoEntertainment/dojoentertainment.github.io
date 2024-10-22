@@ -4,8 +4,6 @@ title: Ravens vs Buccaneers Drinking Game A Tailgate to Remember
 ---
 
 
----
-
 Football season is here, and what better way to enjoy the game than with a fun and engaging drinking game inspired by the exhilarating rivalry of Ravens vs Buccaneers. Gather your friends, grab your favorite drinks, and get ready for a tailgate party that you won't forget.
 
 ## What You'll Need
