@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ravens vs Buccaneers Drinking Game: A Tailgate to Remember
+title: Ravens vs Buccaneers Drinking Game A Tailgate to Remember
 ---
 
 
