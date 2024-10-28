@@ -4,8 +4,6 @@ title: Cowboys vs 49ers The Ultimate Drinking Game Showdown
 ---
 
 
----
-
 Are you ready to saddle up for a wild night of fun, laughter, and maybe a little bit of chaos? Introducing the Cowboys vs 49ers Drinking Game - a perfect blend of sports rivalry, camaraderie, and a splash of your favorite drink. Whether you're a die-hard football fan or just looking for a good time, this game is sure to liven up any gathering.
 
 ---
