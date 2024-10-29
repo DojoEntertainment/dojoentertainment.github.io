@@ -4,7 +4,6 @@ title: Ballon dOr 2024 Drinking Game
 ---
 
 
----
 
 Welcome to a world where football glitz meets party fun The Ballon dOr 2024 Drinking Game is the perfect way to celebrate the prestigious football award ceremony with friends Whether you're a football fanatic or just in it for the fun this game will keep the spirits high and the laughter flowing 
 
