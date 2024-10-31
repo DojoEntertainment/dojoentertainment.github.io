@@ -4,8 +4,6 @@ title: Lakers Inspired Drinking Game for Fans and Friends
 ---
 
 
----
-
 Are you ready to bring the thrill of the basketball court to your living room? Gather your friends and gear up for a night of fun and camaraderie with a Lakers-inspired drinking game. Whether you're a die-hard Lakers fan or just love a good party game, this activity is sure to keep the energy high and the spirits even higher. Let's dive into the rules and how to play
 
 ## Materials Needed
