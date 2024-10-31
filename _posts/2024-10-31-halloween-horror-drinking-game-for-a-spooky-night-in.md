@@ -4,8 +4,6 @@ title: Halloween Horror Drinking Game for a Spooky Night In
 ---
 
 
----
-
 Halloween is just around the corner and what better way to celebrate than with a spooky drinking game inspired by the classic horror film "Halloween". Gather your friends, grab some drinks, and prepare for a night of frightful fun. This game is perfect for fans of the horror genre and anyone looking to add a thrilling twist to their Halloween festivities.
 
 ## What You Will Need
