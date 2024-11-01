@@ -4,8 +4,6 @@ title: Diwali Delight Drinking Game
 ---
 
 
----
-
 Diwali, the festival of lights, is a celebration of joy, togetherness, and the triumph of light over darkness. It's a time when family and friends come together to enjoy delicious sweets, vibrant decorations, and fun-filled activities. If you're looking to add an extra spark to your Diwali celebrations this year, why not try a Diwali-inspired drinking game? This game is perfect for adults who want to blend tradition with a touch of modern-day fun.
 
 ---
