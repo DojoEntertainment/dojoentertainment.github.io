@@ -4,8 +4,6 @@ title: Drinking Game Inspired by Vikings Unleash Your Inner Norse Warrior
 ---
 
 
----
-
 Are you ready to unleash your inner Norse warrior and embark on a legendary night of fun with your friends? Look no further than our Viking-inspired drinking game. Whether you're a fan of the hit TV series 'Vikings' or simply love the thrill of a good drinking game this adventure promises laughter camaraderie and maybe even a bit of mayhem. 
 
 ---
