@@ -4,7 +4,6 @@ title: Dia de los Muertos Drinking Game Celebration
 ---
 
 
----
 
 The vibrant and colorful celebration of Dia de los Muertos is a time to honor and remember loved ones who have passed away. This Mexican tradition is rich with culture, featuring beautiful altars, sugar skulls, and marigolds. To add a playful twist to this festive occasion, why not host a Dia de los Muertos-themed drinking game? This game is perfect for gatherings with friends and family, blending cultural appreciation with spirited fun. 
 
