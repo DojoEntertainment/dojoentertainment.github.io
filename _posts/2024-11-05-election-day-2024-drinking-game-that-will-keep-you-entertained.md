@@ -4,7 +4,7 @@ title: Election Day 2024 Drinking Game That Will Keep You Entertained
 ---
 
 
-Election Day in the United States is not just about casting votes and waiting for results. It is an event that brings people together to watch the drama unfold on their screens. What better way to enjoy the excitement than with a themed drinking game? Whether you are watching with friends or virtually connecting with loved ones, the Election Day 2024 Drinking Game is here to add a splash of fun to your political viewing party.
+Election Day in the United States is not just about casting votes and waiting for results. It is an event that brings people together to watch the drama unfold on their screens. What better way to enjoy the excitement than with a themed party and drinking game? Whether you are watching with friends or virtually connecting with loved ones, the Election Day 2024 Drinking Game is here to add a splash of fun to your political viewing party.
 
 ## What You Will Need
 
