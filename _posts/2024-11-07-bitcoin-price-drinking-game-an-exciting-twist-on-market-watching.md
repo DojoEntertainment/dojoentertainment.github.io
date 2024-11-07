@@ -4,8 +4,6 @@ title: Bitcoin Price Drinking Game An Exciting Twist on Market Watching
 ---
 
 
----
-
 Are you a crypto enthusiast who watches the Bitcoin price chart more than your favorite TV show? Or are you a casual observer who enjoys a good party game? Either way, we've got an exhilarating drinking game that's perfect for your next gathering. Introducing the Bitcoin Price Drinking Game - a fun and engaging way to keep an eye on the crypto market while having a blast with friends
 
 ## How to Play the Bitcoin Price Drinking Game
