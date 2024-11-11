@@ -3,9 +3,6 @@ layout: post
 title: Yellowstone Inspired Drinking Game for Your Next Watch Party
 ---
 
-
----
-
 Calling all fans of the hit TV show Yellowstone. If you're looking to add some extra fun to your next viewing session consider playing this Yellowstone-inspired drinking game. With its intense drama, rugged characters, and breathtaking landscapes, Yellowstone provides the perfect backdrop for a lively and engaging drinking game. So gather your friends, grab your favorite drinks, and let's dive into the world of the Dutton Ranch. 
 
 ### What You'll Need
