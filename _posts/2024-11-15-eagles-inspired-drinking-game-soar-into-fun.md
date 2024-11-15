@@ -4,8 +4,6 @@ title: Eagles Inspired Drinking Game Soar Into Fun
 ---
 
 
----
-
 Are you ready to take your next party to new heights with a drinking game inspired by the majestic and legendary eagles This game will have you and your friends soaring on laughter and fun Whether you're a fan of the iconic band The Eagles or simply fascinated by the grace of the bird itself this drinking game is perfect for creating unforgettable memories
 
 ### What You'll Need
