@@ -3,6 +3,8 @@ layout: post
 title: Jake Paul vs Mike Tyson Drinking Game for Fight Night Fun
 ---
 
+Hello sports fans and party enthusiasts! Get ready to rumble and sip as we introduce a thrilling drinking game inspired by the much-anticipated showdown between Jake Paul and Mike Tyson. This game is perfect for fight night gatherings, adding a splash of fun and camaraderie to the intense atmosphere. So grab your favorite drinks, gather your friends, and let the games begin.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,8 +72,6 @@ title: Jake Paul vs Mike Tyson Drinking Game for Fight Night Fun
   ]
 }
 </script>
-
-Hello sports fans and party enthusiasts! Get ready to rumble and sip as we introduce a thrilling drinking game inspired by the much-anticipated showdown between Jake Paul and Mike Tyson. This game is perfect for fight night gatherings, adding a splash of fun and camaraderie to the intense atmosphere. So grab your favorite drinks, gather your friends, and let the games begin.
 
 ## Materials Needed
 
