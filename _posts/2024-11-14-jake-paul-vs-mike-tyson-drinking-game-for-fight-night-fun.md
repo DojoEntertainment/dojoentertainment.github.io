@@ -3,6 +3,8 @@ layout: post
 title: Jake Paul vs Mike Tyson Drinking Game for Fight Night Fun
 ---
 
+Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we introduce a thrilling drinking game inspired by the much-anticipated showdown between Jake Paul and Mike Tyson. This game is perfect for fight night gatherings, adding a splash of fun and camaraderie to the intense atmosphere. So grab your favorite drinks, gather your friends, and let the games begin.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -71,9 +73,6 @@ title: Jake Paul vs Mike Tyson Drinking Game for Fight Night Fun
 }
 </script>
 
-![Jake Paul vs Mike Tyson Training](https://imgur.com/gallery/jake-paul-vs-mike-tyson-training-wyC27tJ)
-
-Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we introduce a thrilling drinking game inspired by the much-anticipated showdown between Jake Paul and Mike Tyson. This game is perfect for fight night gatherings, adding a splash of fun and camaraderie to the intense atmosphere. So grab your favorite drinks, gather your friends, and let the games begin.
 
 ## Materials Needed
 
@@ -81,6 +80,8 @@ Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we 
 - **Assorted drinks** your choice of alcoholic or non-alcoholic beverages
 - **Shot glasses or cups**
 - **Scorecard and pen** to keep track of knockout moments
+
+![Jake Paul vs Mike Tyson Training](https://imgur.com/gallery/jake-paul-vs-mike-tyson-training-wyC27tJ)
 
 ## Game Rules
 
