@@ -21,13 +21,13 @@ Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we 
     "name": "Drinking Dojo",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://drinkingdojo.com/assets/images/logo.png"
+      "url": "https://drinkingdojo.com/resources/images/logo/dojoIcon.svg"
     }
   },
   "image": "https://imgur.com/gallery/jake-paul-vs-mike-tyson-training-wyC27tJ",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://drinkingdojo.com/jake-paul-vs-mike-tyson-drinking-game"
+    "@id": "https://blog.drinkingdojo.com/jake-paul-vs-mike-tyson-drinking-game-for-fight-night-fun/"
   }
 }
 </script>
@@ -73,6 +73,11 @@ Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we 
 }
 </script>
 
+<!-- Embed Imgur GIF -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/wyC27tJ" data-context="false">
+  <a href="//imgur.com/a/wyC27tJ">Jake Paul VS Mike Tyson Training</a>
+</blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Materials Needed
 
@@ -81,7 +86,6 @@ Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we 
 - **Shot glasses or cups**
 - **Scorecard and pen** to keep track of knockout moments
 
-![Jake Paul vs Mike Tyson Training](https://imgur.com/gallery/jake-paul-vs-mike-tyson-training-wyC27tJ)
 
 ## Game Rules
 
