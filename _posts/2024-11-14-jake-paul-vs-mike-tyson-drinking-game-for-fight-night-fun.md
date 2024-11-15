@@ -75,9 +75,9 @@ Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we 
 
 <!-- Embed Giphy GIF -->
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <iframe src="https://giphy.com/embed/jSM4R4rgxpOYJTDgur" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <iframe src="https://giphy.com/embed/jSM4R4rgxpOYJTDgur" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
-<p><a href="https://giphy.com/gifs/Cameron-Smith-slap-tyson-jSM4R4rgxpOYJTDgur">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/Cameron-Smith-slap-tyson-jSM4R4rgxpOYJTDgur"></a></p>
 
 ## Materials Needed
 
