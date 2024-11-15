@@ -73,11 +73,11 @@ Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we 
 }
 </script>
 
-<!-- Embed Imgur GIF -->
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/wyC27tJ" data-context="false">
-  <a href="//imgur.com/a/wyC27tJ">Jake Paul VS Mike Tyson Training</a>
-</blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- Embed Giphy GIF -->
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <iframe src="https://giphy.com/embed/jSM4R4rgxpOYJTDgur" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/Cameron-Smith-slap-tyson-jSM4R4rgxpOYJTDgur">via GIPHY</a></p>
 
 ## Materials Needed
 
