@@ -3,8 +3,6 @@ layout: post
 title: Jake Paul vs Mike Tyson Drinking Game for Fight Night Fun
 ---
 
-Hello sports fans and party enthusiasts! Get ready to rumble and sip as we introduce a thrilling drinking game inspired by the much-anticipated showdown between Jake Paul and Mike Tyson. This game is perfect for fight night gatherings, adding a splash of fun and camaraderie to the intense atmosphere. So grab your favorite drinks, gather your friends, and let the games begin.
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -13,7 +11,7 @@ Hello sports fans and party enthusiasts! Get ready to rumble and sip as we intro
   "description": "Get ready to rumble with a thrilling drinking game inspired by the Jake Paul vs Mike Tyson showdown. Perfect for fight night gatherings!",
   "author": {
     "@type": "Person",
-    "name": "Your Name or Site Name"
+    "name": "Drinking Dojo Team"
   },
   "datePublished": "2024-11-13",
   "publisher": {
@@ -21,10 +19,10 @@ Hello sports fans and party enthusiasts! Get ready to rumble and sip as we intro
     "name": "Drinking Dojo",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://drinkingdojo.com/logo.png"
+      "url": "https://drinkingdojo.com/assets/images/logo.png"
     }
   },
-  "image": "https://drinkingdojo.com/images/jake-paul-vs-mike-tyson-drinking-game.jpg",
+  "image": "https://imgur.com/gallery/jake-paul-vs-mike-tyson-training-wyC27tJ",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://drinkingdojo.com/jake-paul-vs-mike-tyson-drinking-game"
@@ -72,6 +70,10 @@ Hello sports fans and party enthusiasts! Get ready to rumble and sip as we intro
   ]
 }
 </script>
+
+![Jake Paul vs Mike Tyson Training](https://imgur.com/gallery/jake-paul-vs-mike-tyson-training-wyC27tJ)
+
+Get ready, sports fans and party enthusiasts! Get ready to rumble and sip as we introduce a thrilling drinking game inspired by the much-anticipated showdown between Jake Paul and Mike Tyson. This game is perfect for fight night gatherings, adding a splash of fun and camaraderie to the intense atmosphere. So grab your favorite drinks, gather your friends, and let the games begin.
 
 ## Materials Needed
 
