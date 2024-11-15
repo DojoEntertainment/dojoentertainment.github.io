@@ -3,6 +3,7 @@ layout: post
 title: Dolphins vs Rams Drinking Game
 ---
 
+Hello sports fans and party enthusiasts! If you're looking for a new way to spice up your game day gatherings, look no further. Inspired by the thrilling rivalry of the Dolphins vs Rams, this drinking game will have you and your friends cheering, strategizing, and possibly stumbling by the final whistle. All you need is a love for football, a variety of drinks, and a sense of humor. Let's dive right in!
 
 ### Get Ready for a Splashdown
 
