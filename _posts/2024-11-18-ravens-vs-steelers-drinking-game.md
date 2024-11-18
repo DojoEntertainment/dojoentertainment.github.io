@@ -4,8 +4,6 @@ title: Ravens vs Steelers Drinking Game
 ---
 
 
----
-
 Are you ready for some football and fun? Whether you're a die-hard fan of the Baltimore Ravens or the Pittsburgh Steelers, this drinking game will add an extra layer of excitement to your game day experience. Gather your friends, grab your favorite drinks, and get ready to cheer, laugh, and maybe even groan with this Ravens vs Steelers drinking game.
 
 ## Materials Needed 
