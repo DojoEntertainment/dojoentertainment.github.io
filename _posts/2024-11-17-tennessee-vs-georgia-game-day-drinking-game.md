@@ -4,8 +4,6 @@ title: Tennessee vs Georgia Game Day Drinking Game
 ---
 
 
----
-
 When it comes to college football, few rivalries are as intense and celebrated as Tennessee vs Georgia. The matchup brings fans together for an exhilarating day of touchdowns, tackles, and team spirit. But why stop the fun at the game when you can spice up your viewing experience with a thrilling and engaging drinking game? Gather your friends, pour some beverages, and get ready for a gameday you won't forget.
 
 ### How to Play
