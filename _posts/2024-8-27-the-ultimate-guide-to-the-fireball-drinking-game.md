@@ -42,7 +42,7 @@ The Fireball drinking game is a fast-paced, social game designed for 4-12 player
    - If it takes you two or more tries to bounce the ball into your cup, you must pass the cup to the player on your left. The game continues as players try to bounce the ball into the cup they receive.
 
 4. **The Chase:**
-   - If another player's cup catches up to yours while you’re still trying to bounce the ball into your cup, you owe them a drink! You must take the cup you just received, drink its contents, and then continue trying to bounce the ball into your cup. Once you succeed, take another cup from the circle, drink, and keep playing.
+   - If another player's cup catches up to yours while you're still trying to bounce the ball into your cup, you owe them a drink! You must take the cup you just received, drink its contents, and then continue trying to bounce the ball into your cup. Once you succeed, take another cup from the circle, drink, and keep playing.
 
 5. **The Mighty King:**
    - If, while bouncing your ball, you hit one of the cups with alcohol in the center, you must drink its contents and add the cup to your stack. Then, continue playing.

@@ -4,8 +4,6 @@ title: Texans vs Cowboys Drinking Game Showdown
 ---
 
 
----
-
 Are you ready to lasso up some fun with a drinking game that pits Texans against Cowboys in an epic showdown? Saddle up for an unforgettable night of laughter and camaraderie with the Texans vs Cowboys drinking game. Whether you're a Lone Star local or a cowboy at heart, this game is sure to spice up your gathering. So grab your favorite drinks and let's dive into the rules of this southern showdown
 
 ## What You Need
