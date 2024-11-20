@@ -4,8 +4,6 @@ title: Kick Off Your Party with the Mexico vs Honduras Drinking Game
 ---
 
 
----
-
 Are you ready to kick off your next party with a bang? Inspired by the thrilling soccer rivalry between Mexico and Honduras, this drinking game is sure to get your adrenaline pumping and spirits soaring. Whether you're a die-hard fan or just in it for the fun, this game will keep everyone entertained from the first whistle to the final goal.
 
 ## What You'll Need
