@@ -4,8 +4,6 @@ title: Steelers Game Day Drinking Game
 ---
 
 
----
-
 Football season is here, and what better way to celebrate your favorite team than with a game-inspired drinking game? If you're a Pittsburgh Steelers fan, gather your friends, don your black and gold, and get ready for some fun. This drinking game is designed to keep you entertained whether you're cheering at a tailgate or enjoying the game from your couch. 
 
 ### Materials Needed
