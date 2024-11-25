@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UFC Drinking Game: Rules, Tips, and How to Play for Fight Night Fun
+title: UFC Drinking Game Blog Post - Rules, Tips, and How to Play for Fight Night Fun
 ---
 
 Add excitement to your UFC fight night with this ultimate UFC Drinking Game guide! Learn the rules, materials needed, and tips for responsible fun.
