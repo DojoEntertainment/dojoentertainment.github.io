@@ -78,7 +78,6 @@ Absolutely! Our rules can be adapted for boxing, MMA, or even wrestling events. 
 
 ---
 
-```json
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
