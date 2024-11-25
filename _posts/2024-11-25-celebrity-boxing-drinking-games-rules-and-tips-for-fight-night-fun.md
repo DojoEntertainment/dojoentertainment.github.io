@@ -113,6 +113,7 @@ Split the group into "teams." Each team drinks when their fighter performs well 
 
 With these rules, tips, and FAQs, you’re ready to host the ultimate fight night party! Don’t forget to explore more drinking games and ideas at [DrinkingDojo.com](https://www.drinkingdojo.com). Cheers to a knockout night! 🥂
 
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
