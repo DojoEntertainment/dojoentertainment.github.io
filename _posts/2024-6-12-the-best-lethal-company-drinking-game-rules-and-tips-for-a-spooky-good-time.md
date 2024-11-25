@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Lethal Company Drinking Game - Rules, Tips, and Spooky Fun for Solo or Group Play 🎮🍺🎃
+title: Lethal Company Drinking Game - Rules, Tips, and Spooky Fun for Solo or Group Play 🎮🍺🎃
 ---
 
 Lethal Company, a cooperative survival horror game by Zeekerss, has taken the gaming community by storm since its early access release on Steam in October 2023. Set in a retrofuturistic world, players navigate abandoned exomoons to collect scrap while avoiding deadly monsters and traps. To add an extra layer of fun to this thrilling experience, we've created the ultimate **Lethal Company Drinking Game**. Whether you're playing solo or with friends, these rules will ensure a night of excitement and spooky fun.
@@ -10,6 +10,8 @@ Lethal Company, a cooperative survival horror game by Zeekerss, has taken the ga
 ### Why Play a Drinking Game with Lethal Company? 👾🍻
 
 Lethal Company is intense and requires teamwork and quick thinking. A drinking game can enhance the experience by making each encounter with monsters and every collected scrap piece even more memorable. It’s a fantastic way to celebrate victories and commiserate over close calls, all while sharing laughs with friends.
+
+Looking for inspiration for your next game night? Discover more creative drinking games at [DrinkingDojo.com](https://www.drinkingdojo.com).
 
 ---
 
@@ -61,16 +63,7 @@ Before you start, ensure everyone has their drinks ready. Beer, cocktails, wine,
 2. **Stay Hydrated**: Keep water on hand to balance your drinks during intense gameplay.
 3. **Know the Monsters**: Each monster behaves differently. Learn their patterns to avoid unnecessary losses.
 4. **Pace Yourself**: The excitement of Lethal Company can escalate quickly—drink responsibly!
-5. **Have Snacks Ready**: Enjoy snacks to keep your energy levels up during long sessions.
-
----
-
-### Popular Lethal Company Scenarios and Challenges 👻
-
-Make your drinking game even more engaging by tying rules to specific game scenarios:
-- **Monster Encounter Challenge**: Drink twice when you have a close call with a monster.
-- **Jester Chaos**: Finish your drink if the Jester eliminates you or a teammate.
-- **Foggy Ambush**: Drink if you get caught in a monster ambush during weather changes like fog or lightning.
+5. **Have Snacks Ready**: Snacks are a lifesaver for longer sessions. Find other fun snack pairings and ideas at [DrinkingDojo.com](https://www.drinkingdojo.com).
 
 ---
 
