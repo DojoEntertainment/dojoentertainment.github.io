@@ -4,8 +4,6 @@ title: Eagles Game Drinking Game Extravaganza
 ---
 
 
----
-
 Watching an Eagles game is always a thrilling experience, but what if you could up the excitement with a fun drinking game? Whether you're a die-hard fan or just along for the ride, this Eagles Game Drinking Game is sure to make your game day more entertaining. Gather your friends, grab your favorite drinks, and get ready to cheer on your team in a whole new way!
 
 ## How to Play

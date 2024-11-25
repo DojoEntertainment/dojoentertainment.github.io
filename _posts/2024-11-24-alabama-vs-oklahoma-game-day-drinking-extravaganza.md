@@ -4,8 +4,6 @@ title: Alabama vs Oklahoma Game Day Drinking Extravaganza
 ---
 
 
----
-
 Game day is always a time for excitement and camaraderie, especially when two powerhouse teams like Alabama and Oklahoma face off. But what if you could add an extra layer of fun to your game day experience? Enter the Alabama vs Oklahoma Game Day Drinking Extravaganza. This drinking game is perfect for die-hard fans and casual viewers alike. Ready to spice up your next football showdown? Let's dive into the rules and how to play.
 
 ## What You'll Need
