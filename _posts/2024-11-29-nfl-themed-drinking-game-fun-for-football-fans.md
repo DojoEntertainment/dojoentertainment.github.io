@@ -4,8 +4,6 @@ title: NFL-Themed Drinking Game Fun for Football Fans
 ---
 
 
----
-
 Are you ready to combine your love for football with some friendly competition and a dash of fun? Gather your friends and get ready for an NFL-themed drinking game that will make game day even more exciting. Whether you're hosting a game day party or just hanging out with fellow football enthusiasts, this game is guaranteed to keep the energy high and the spirits higher.
 
 ### What You'll Need
