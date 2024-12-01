@@ -4,8 +4,6 @@ title: College Football Drinking Game Extravaganza
 ---
 
 
----
-
 College football season is back and what better way to celebrate than with a thrilling drinking game inspired by the excitement on the field. Gather your friends, grab some drinks, and get ready for an unforgettable game day experience. This blog post will guide you through the rules and materials needed to play the College Football Drinking Game. Let's dive into the fun!
 
 ## Materials Needed
