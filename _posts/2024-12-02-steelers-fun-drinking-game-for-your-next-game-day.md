@@ -3,9 +3,6 @@ layout: post
 title: Steelers Fun Drinking Game for Your Next Game Day
 ---
 
-
----
-
 If you're a Pittsburgh Steelers fan or just love a good football-themed party, then this drinking game is for you. Not only will it keep you entertained during the game, but it will also add an extra layer of excitement to every touchdown, fumble, and field goal. So, gather your friends, don your Steelers gear, and get ready for a memorable game day experience. 
 
 ## Game Essentials
