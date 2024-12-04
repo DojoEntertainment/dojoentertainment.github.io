@@ -4,8 +4,6 @@ title: Korean Soju Fun A Drinking Game Inspired by South Korea
 ---
 
 
----
-
 If you are a fan of South Korean culture or simply looking for a fun way to spice up your next gathering look no further. This entertaining drinking game inspired by South Korea will not only bring laughter and excitement but also give you a taste of the vibrant Korean nightlife. Grab your friends and a bottle of soju and dive into this delightful game.
 
 ## Materials Needed
