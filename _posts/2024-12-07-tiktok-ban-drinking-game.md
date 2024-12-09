@@ -3,9 +3,6 @@ layout: post
 title: TikTok Ban Drinking Game
 ---
 
-
----
-
 In the age of social media and viral challenges, TikTok has become a household name. But what happens when a TikTok ban leaves us all with extra time on our hands? Enter the TikTok Ban Drinking Game - a fun and social way to bring friends together and have a laugh over everyone's favorite social media app. Whether you're in favor of the ban or not, this game is sure to entertain. 
 
 ### How to Play
