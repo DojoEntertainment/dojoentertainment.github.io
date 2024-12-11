@@ -4,8 +4,6 @@ title: Bengals vs Cowboys Drinking Game
 ---
 
 
----
-
 Football season brings excitement, camaraderie, and a touch of rivalry, especially when teams like the Cincinnati Bengals and the Dallas Cowboys face off. What better way to add even more fun to the game day experience than with a themed drinking game? In this post, we'll outline a Bengals vs Cowboys drinking game that will keep you entertained all game long.
 
 ### Materials Needed
