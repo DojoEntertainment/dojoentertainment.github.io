@@ -4,8 +4,6 @@ title: Game Awards 2024 Drinking Game Extravaganza
 ---
 
 
----
-
 The Game Awards 2024 are just around the corner and what better way to enjoy the spectacle than with a thrilling drinking game? Whether you're rooting for your favorite game to snag the coveted Game of the Year award or just in it for the trailers and live performances this drinking game will add an extra layer of excitement to your viewing party. Gather your friends prepare your favorite drinks and get ready for a night filled with cheers and jeers.
 
 ## Materials Needed
