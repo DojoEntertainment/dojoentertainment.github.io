@@ -4,8 +4,6 @@ title: Rayo Vallecano Real Madrid Inspired Drinking Game
 ---
 
 
----
-
 The thrill of a football match is exhilarating, especially when two competitive teams like Rayo Vallecano and Real Madrid hit the field. But what if you could boost that excitement with a fun and engaging drinking game? Whether you're a die-hard football fan or just watching for the social vibe, this game will keep you entertained throughout the match.
 
 ### Materials Needed
