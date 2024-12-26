@@ -4,9 +4,7 @@ title: Home Alone Inspired Drinking Game Blog Post
 ---
 
 
-**Home Alone Drinking Game Fun for Adults**
-
-The holiday season is upon us and what better way to enjoy a classic festive film than with a fun drinking game inspired by "Home Alone" This game is perfect whether you are hosting a small gathering or just want to add a little extra cheer to your movie night Grab your favorite drinks and get ready for a booby-trapped adventure with Kevin McCallister
+Home Alone Drinking Game Fun for Adults. The holiday season is upon us and what better way to enjoy a classic festive film than with a fun drinking game inspired by "Home Alone" This game is perfect whether you are hosting a small gathering or just want to add a little extra cheer to your movie night Grab your favorite drinks and get ready for a booby-trapped adventure with Kevin McCallister
 
 **Materials Needed**
 
