@@ -36,6 +36,9 @@ Inauguration Day is a momentous occasion filled with pomp, circumstance, and the
   "@type": "Event",
   "name": "Inauguration Day Drinking Game",
   "startDate": "2025-01-20T12:00:00-05:00",
+  "endDate": "2025-01-20T23:59:00-05:00",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
   "location": {
     "@type": "Place",
     "name": "Your Party Space",
@@ -44,12 +47,20 @@ Inauguration Day is a momentous occasion filled with pomp, circumstance, and the
       "addressLocality": "Anywhere, USA"
     }
   },
+  "image": "https://drinkingdojo.com/images/inauguration-drinking-game.jpg",
   "description": "Join friends for a fun Inauguration Day Drinking Game with simple rules and a festive spirit.",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Drinking Dojo",
+    "url": "https://drinkingdojo.com"
+  },
   "offers": {
     "@type": "Offer",
     "url": "https://drinkingdojo.com/blog/inauguration-day-drinking-game",
     "price": "0",
-    "priceCurrency": "USD"
+    "priceCurrency": "USD",
+    "validFrom": "2025-01-01T00:00:00-05:00",
+    "availability": "https://schema.org/InStock"
   }
 }
 </script>
