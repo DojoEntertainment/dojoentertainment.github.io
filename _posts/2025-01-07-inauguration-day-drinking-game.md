@@ -1,3 +1,4 @@
+---
 layout: post
 title: Inauguration Day Drinking Game
 ---
