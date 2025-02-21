@@ -3,15 +3,9 @@
   <head>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Bungee&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet" />
 
-    <title>
-      {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{
-      site.description }}
-    </title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
 
@@ -19,46 +13,47 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ site.baseurl }}/style.css"
-    />
-    <link
-      rel="alternate"
-      type="application/rss+xml"
-      title="{{ site.name }} - {{ site.description }}"
-      href="https://drinkingdojo.com"
-    />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="https://drinkingdojo.com" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16511630682"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'AW-16511630682');
-  </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16511630682"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
 
-<script type="text/javascript">
-  (function(c,l,a,r,i,t,y){
-    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-  })(window, document, "clarity", "script", "p65kph0a3d");
-</script>
+      gtag('config', 'AW-16511630682');
+    </script>
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9408341847472029"
+      crossorigin="anonymous"></script>
 
+    <script type="text/javascript">
+      (function (c, l, a, r, i, t, y) {
+        c[a] =
+          c[a] ||
+          function () {
+            (c[a].q = c[a].q || []).push(arguments);
+          };
+        t = l.createElement(r);
+        t.async = 1;
+        t.src = 'https://www.clarity.ms/tag/' + i;
+        y = l.getElementsByTagName(r)[0];
+        y.parentNode.insertBefore(t, y);
+      })(window, document, 'clarity', 'script', 'p65kph0a3d');
+    </script>
   </head>
 
   <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"
-            ><img src="{{ site.avatar }}"
-          /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
             <h1 class="site-name">
@@ -79,9 +74,7 @@
       {{ content }}
 
       <nav>
-        <a href="https://drinkingdojo.com"
-          >Play drinking games online</a
-        >
+        <a href="https://drinkingdojo.com">Play drinking games online</a>
       </nav>
     </div>
 
