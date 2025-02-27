@@ -6,6 +6,8 @@ permalink: /people-playtime-cheers-and-challenges/
 ---
 
 
+### Introduction
+
 In the ever-evolving world of social gatherings, drinking games have stood the test of time as a fun and engaging way to break the ice and elevate the atmosphere. Inspired by the trend of "people" and their innate desire to connect and enjoy each other's company, we've crafted a unique set of games that blend camaraderie, laughter, and friendly competition. Whether you're hosting a small get-together or a lively party, these games are sure to be a hit.
 
 ### The Essentials
