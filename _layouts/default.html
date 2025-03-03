@@ -16,37 +16,51 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="https://drinkingdojo.com" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X5HCW4SBKC"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
+    <style>
+      .cookie-banner {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #000;
+        color: #fff;
+        text-align: center;
+        padding: 15px;
+        z-index: 1000;
+        display: none;
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
       }
-      gtag('js', new Date());
+      .cookie-banner p {
+        margin: 0 0 10px 0;
+        font-size: 14px;
+      }
+      .cookie-banner a {
+        color: #f1d600;
+        text-decoration: underline;
+      }
+      .cookie-banner button {
+        background-color: #f1d600;
+        color: #000;
+        border: none;
+        border-radius: 4px;
+        padding: 8px 15px;
+        margin-left: 10px;
+        cursor: pointer;
+        font-weight: bold;
+      }
+      .cookie-banner button:hover {
+        background-color: #e5c800;
+      }
+    </style>
 
-      gtag('config', 'G-X5HCW4SBKC');
-    </script>
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <!-- Google Analytics script will be loaded after consent -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X5HCW4SBKC" id="ga-script" data-cookieconsent="statistics"></script>
     <script
       async
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9408341847472029"
-      crossorigin="anonymous"></script>
-
-    <script type="text/javascript">
-      (function (c, l, a, r, i, t, y) {
-        c[a] =
-          c[a] ||
-          function () {
-            (c[a].q = c[a].q || []).push(arguments);
-          };
-        t = l.createElement(r);
-        t.async = 1;
-        t.src = 'https://www.clarity.ms/tag/' + i;
-        y = l.getElementsByTagName(r)[0];
-        y.parentNode.insertBefore(t, y);
-      })(window, document, 'clarity', 'script', 'p65kph0a3d');
-    </script>
+      crossorigin="anonymous"
+      data-cookieconsent="advertising"></script>
   </head>
 
   <body>
@@ -85,5 +99,90 @@
     </div>
 
     {% include analytics.html %}
+
+    <!-- Cookie Banner -->
+    <div id="cookie-banner" class="cookie-banner">
+      <p>This website uses cookies to ensure you get the best experience. By continuing to use this site, you consent to our use of cookies.</p>
+      <div>
+        <button id="accept-all-cookies">Accept All</button>
+        <button id="accept-necessary-cookies">Necessary Only</button>
+      </div>
+    </div>
+
+    <!-- Cookie Consent Script -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const cookieBanner = document.getElementById('cookie-banner');
+        const acceptAllButton = document.getElementById('accept-all-cookies');
+        const acceptNecessaryButton = document.getElementById('accept-necessary-cookies');
+
+        // Check if user has already made a choice
+        if (!getCookie('cookieConsent')) {
+          cookieBanner.style.display = 'block';
+        } else {
+          // If consent was given, enable the appropriate scripts
+          const consentLevel = getCookie('cookieConsent');
+          if (consentLevel === 'all') {
+            enableAllCookies();
+          }
+        }
+
+        // Event listeners for buttons
+        acceptAllButton.addEventListener('click', function () {
+          setCookie('cookieConsent', 'all', 365);
+          cookieBanner.style.display = 'none';
+          enableAllCookies();
+        });
+
+        acceptNecessaryButton.addEventListener('click', function () {
+          setCookie('cookieConsent', 'necessary', 365);
+          cookieBanner.style.display = 'none';
+        });
+
+        // Cookie utility functions
+        function setCookie(name, value, days) {
+          const date = new Date();
+          date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+          const expires = 'expires=' + date.toUTCString();
+          document.cookie = name + '=' + value + ';' + expires + ';path=/';
+        }
+
+        function getCookie(name) {
+          const nameEQ = name + '=';
+          const ca = document.cookie.split(';');
+          for (let i = 0; i < ca.length; i++) {
+            let c = ca[i];
+            while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+          }
+          return null;
+        }
+
+        // Function to enable all cookies and analytics
+        function enableAllCookies() {
+          // Google Analytics
+          window.dataLayer = window.dataLayer || [];
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag('js', new Date());
+          gtag('config', 'G-X5HCW4SBKC');
+
+          // Microsoft Clarity
+          (function (c, l, a, r, i, t, y) {
+            c[a] =
+              c[a] ||
+              function () {
+                (c[a].q = c[a].q || []).push(arguments);
+              };
+            t = l.createElement(r);
+            t.async = 1;
+            t.src = 'https://www.clarity.ms/tag/' + i;
+            y = l.getElementsByTagName(r)[0];
+            y.parentNode.insertBefore(t, y);
+          })(window, document, 'clarity', 'script', 'p65kph0a3d');
+        }
+      });
+    </script>
   </body>
 </html>
