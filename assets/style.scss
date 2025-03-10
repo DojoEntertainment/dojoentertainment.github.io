@@ -1,0 +1,50 @@
+---
+---
+
+// Jekyll configurations
+$company_colors_main_background: {{ site.company.colors.main.background }};
+$company_colors_main_foreground: {{ site.company.colors.main.foreground }};
+$company_colors_body_background: {{ site.company.colors.body.background }};
+$company_colors_body_foreground: {{ site.company.colors.body.foreground }};
+$company_colors_accent: {{ site.company.colors.accent }};
+$company_fonts_heading_name: {{ site.company.fonts.heading }};
+$company_fonts_body_name: {{ site.company.fonts.body }};
+$company_company_icon_size: {{ site.company.icon_size }}px;
+
+// Color variables
+$color-background: $company_colors_main_background !default;
+$color-foreground: $company_colors_main_foreground !default;
+$color-body-background: $company_colors_body_background !default;
+$color-body-foreground: $company_colors_body_foreground !default;
+$color-dot-accent: $company_colors_accent !default;
+$color-title: $company_colors_main_foreground !default;
+$color-body-text: $company_colors_main_background !default;
+$color-text-accent: $company_colors_accent !default;
+$color-nav-link: $company_colors_accent !default;
+$color-primary-link: $company_colors_accent !default;
+$color-code: $company_colors_accent !default;
+
+// Social icon size
+$social-icon-size: $company_company_icon_size !default;
+
+// Font variables
+$heading-font-family: $company_fonts_heading_name, Arial, sans-serif;
+$body-font-family: $company_fonts_body_name, Arial, sans-serif;
+
+// Font-smoothing class
+.font-smoothing {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Import sass partials
+@import
+        "variables",
+        "prefix", // fix variables
+        "base",
+        "components",
+        "utilities",
+        "extension", // extend theme
+        "cookie_consent", // cookie consent styles
+        "postfix" // fix theme
+;

@@ -1,0 +1,241 @@
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 { font-family: $heading-font-family; }
+
+@media (min-width: $breakpoint-lg) {
+  .col-lg-1 { width: (1 / 12 * 100%); }
+  .col-lg-2 { width: (2 / 12 * 100%); }
+  .col-lg-3 { width: (3 / 12 * 100%); }
+  .col-lg-4 { width: (4 / 12 * 100%); }
+  .col-lg-5 { width: (5 / 12 * 100%); }
+  .col-lg-6 { width: (6 / 12 * 100%); }
+  .col-lg-7 { width: (7 / 12 * 100%); }
+  .col-lg-8 { width: (8 / 12 * 100%); }
+  .col-lg-9 { width: (9 / 12 * 100%); }
+  .col-lg-10 { width: (10 / 12 * 100%); }
+  .col-lg-11 { width: (11 / 12 * 100%); }
+  .col-lg-12 { width: 100%; }
+}
+
+.my-0 { margin-top: 0; margin-bottom: 0; }
+.my-1 { margin-top: $spacer-1; margin-bottom: $spacer-1; }
+.my-2 { margin-top: $spacer-2; margin-bottom: $spacer-2; }
+.my-3 { margin-top: $spacer-3; margin-bottom: $spacer-3; }
+.my-4 { margin-top: $spacer-4; margin-bottom: $spacer-4; }
+
+.pt-0 { padding-top: 0; }
+.pr-0 { padding-right: 0; }
+.pb-0 { padding-bottom: 0; }
+.pl-0 { padding-left: 0; }
+
+.pt-1 { padding-top: $spacer-1; }
+.pr-1 { padding-right: $spacer-1; }
+.pb-1 { padding-bottom: $spacer-1; }
+.pl-1 { padding-left: $spacer-1; }
+
+.pt-2 { padding-top: $spacer-2; }
+.pr-2 { padding-right: $spacer-2; }
+.pb-2 { padding-bottom: $spacer-2; }
+.pl-2 { padding-left: $spacer-2; }
+
+.pt-3 { padding-top: $spacer-3; }
+.pr-3 { padding-right: $spacer-3; }
+.pb-3 { padding-bottom: $spacer-3; }
+.pl-3 { padding-left: $spacer-3; }
+
+.pt-4 { padding-top: $spacer-4; }
+.pr-4 { padding-right: $spacer-4; }
+.pb-4 { padding-bottom: $spacer-4; }
+.pl-4 { padding-left: $spacer-4; }
+
+// Responsive margin
+@media (min-width: $breakpoint-lg) {
+  .px-lg-1 { padding-left: $spacer-1; padding-right: $spacer-1 }
+  .px-lg-2 { padding-left: $spacer-2; padding-right: $spacer-2 }
+  .px-lg-3 { padding-left: $spacer-3; padding-right: $spacer-3 }
+  .px-lg-4 { padding-left: $spacer-4; padding-right: $spacer-4 }
+
+  .pt-lg-0 { padding-top: 0; }
+  .pr-lg-0 { padding-right: 0; }
+  .pb-lg-0 { padding-bottom: 0; }
+  .pl-lg-0 { padding-left: 0; }
+
+  .pt-lg-1 { padding-top: $spacer-1; }
+  .pr-lg-1 { padding-right: $spacer-1; }
+  .pb-lg-1 { padding-bottom: $spacer-1; }
+  .pl-lg-1 { padding-left: $spacer-1; }
+
+  .pt-lg-2 { padding-top: $spacer-2; }
+  .pr-lg-2 { padding-right: $spacer-2; }
+  .pb-lg-2 { padding-bottom: $spacer-2; }
+  .pl-lg-2 { padding-left: $spacer-2; }
+
+  .pt-lg-3 { padding-top: $spacer-3; }
+  .pr-lg-3 { padding-right: $spacer-3; }
+  .pb-lg-3 { padding-bottom: $spacer-3; }
+  .pl-lg-3 { padding-left: $spacer-3; }
+
+  .pt-lg-4 { padding-top: $spacer-4; }
+  .pr-lg-4 { padding-right: $spacer-4; }
+  .pb-lg-4 { padding-bottom: $spacer-4; }
+  .pl-lg-4 { padding-left: $spacer-4; }
+}
+
+.valign-top {
+  vertical-align: top;
+}
+
+/* Social icons */
+.social-icons {
+  display: table;
+}
+
+.social-icon
+ {
+  width: $social-icon-size;
+  height: $social-icon-size;
+  fill: $color-body-foreground;
+  
+  &:hover {
+    fill: $color-dot-accent;
+  }
+}
+
+header .social-icon,
+footer .social-icon
+ {
+  fill: $color-foreground;
+}
+
+.social-icon
+ {
+  width: $social-icon-size;
+  height: $social-icon-size;
+  
+  &:hover {
+    fill: $color-dot-accent;
+  }
+}
+
+/* Header */
+@media (max-width: $breakpoint-lg) {
+  .site-title-link {
+    width: 100%;
+    margin-bottom: $spacer-1;
+  }
+
+  .header-menu {
+    margin-bottom: $spacer-2;
+  }
+
+  .social-icons {
+    float: initial;
+  }
+}
+
+/* Call to action */
+.call-to-action {
+  font-size: 1.5em;
+  line-height: 1.4;
+  font-weight: bold;
+  display: block;
+}
+
+.call-to-action::after {
+  content: " \2794";
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Pagination */
+.pagination {
+  text-align: center; /* Center align everything */
+  margin-top: 20px;
+  width: 100%;
+}
+/* Ensuring previous and next buttons are properly displayed */
+.pagination .previous,
+.pagination .next {
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+  color: $color-background;
+}
+
+.pagination a {
+  display: inline-block;
+  min-width: 2em;
+  text-decoration: none;
+  font-size: 0.8em;
+}
+
+.pagination a:hover {
+  color: $color-text-accent;
+}
+
+.pagination a.previous::before {
+  content: "\25C0";
+}
+
+.pagination a.next::after {
+  content: "\25B6";
+}
+
+/* Company Logo */
+.logo {
+  max-width: 100px;
+  display: inline-block;
+  border-radius: 0.4em;
+}
+
+@media (max-width: $breakpoint-lg) {
+  .logo {
+    margin-bottom: $spacer-2;
+  }
+}
+
+/* Footer */
+.footer-menu {
+  margin-top: $spacer-3;
+}
+
+.footer-footnotes {
+  font-size: 0.8em;
+  text-align: left;
+  float: left;
+}
+
+.footer-footnotes a:hover {
+  color: $color-text-accent;
+}
+
+@media (min-width: $breakpoint-lg) {
+  .footer-menu {
+    margin-top: 0;
+    text-align: right;
+    float: right;
+  }
+}
+
+/* Theme color utilities */
+.footer-background { background-color: $color-background; }
+.footer-border { border-color: $color-foreground; }
+.footer-title { color: $color-title; }
+.footer-text { color: $color-foreground; }
+.footer-social { fill: $color-foreground; }
+.footer-social-accent { fill: $color-dot-accent; }
+.footer-link:hover { color: $color-nav-link !important; } // used for navigation links on homepage
+.text-accent { color: $color-text-accent; } // used for date in post list and home link
+
+/* Middle section content container */
+
+@media (max-width: $breakpoint-lg) {
+  .section-content {
+    padding-top: $spacer-2;
+    padding-bottom: $spacer-2;
+  }
+}

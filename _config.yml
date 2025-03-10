@@ -2,60 +2,89 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
+# Site details (displayed in the header)
+author: Dojo Entertainment
 name: Drinking Dojo Blog
-
-# Short bio or description (displayed in the header)
+title: Drinking Dojo Blog
 description: Your hub for party games!
+keywords: "drinking games, entertainment, party games, hygge"
+logo: images/dojoIcon.svg
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://drinkingdojo.com/resources/images/logo/dojoIcon.svg
+# Company details
+company:
+  analytics:
+    google_id: G-1PQ65P1MSM
+    google_ads: true
+  cta:
+    text: "Play drinking games online"
+    url: "https://drinkingdojo.com/"
+  socials:
+    youtube: "@DrinkingDojo"
+    instagram: 
+    facebook: DrinkingDojo
+    tiktok: 
+    x: 
+    linkedin: company/drinking-dojo/
+    pinterest: 
+    telegram: 
+    discord: 
+    github: 
+    email: contact@drinkingdojo.com
+    phone: 
+  icon_size: "24"
+  colors:
+    main:
+      background: "#18181f"
+      foreground: "#fff"
+    body:
+      background: "#18181f"
+      foreground: "#fff"
+    accent: "#ff9800"
+  fonts:
+    google:
+      - "Bungee"
+    heading: "'Bungee', 'Helvetica Neue'"
+    body: "'Helvetica Neue'"
 
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: contact@drinkingdojo.com
-  facebook: DrinkingDojo
-  flickr:
-  github:
-  instagram:
-  linkedin: company/98800908/
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: /@DrinkingDojo
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+# Navigation items
+navigation:
+  header:
+    - title: "Play Now"
+      url: "https://drinkingdojo.com/"
+  footer:
+    - title: "Terms and Conditions"
+      url: "/terms-and-conditions"
+    - title: "Privacy Policy"
+      url: "/privacy-policy"
+    - title: "Cookie Policy"
+      url: "/cookie-policy"
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://drinkingdojo.com/
+url: https://127.0.0.1:4000/
+
+# Paginate after X amount of posts
+paginate: 10
+
+#
+# NOTHING TO CHANGE BEYOND THIS POINT
+#
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ''
+# ONLY NECESSARY ON SUB-PAGE / GITHUB-BASED HOSTING
+baseurl: 
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+# Theme used as a base
+theme: jekyll-swiss
 
+# Slug of paginated page
+paginate_path: "/page-:num/"
+
+# Permalink slug (DO NOT TOUCH)
 permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -67,14 +96,18 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
+# Disable Github Metadata plugin
+github: [metadata]
+
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+plugins:
+  - jekyll-sitemap # Create a sitemap
+  - jekyll-feed # Create an Atom RSS feed
+  - jekyll-paginate # Support pagination of posts
 
 # Exclude these files from your production _site
 exclude:
@@ -83,3 +116,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - __init/
+  - init_mac.command
+  - init_windows.bat

@@ -1,35 +1,18 @@
 ---
 layout: default
 ---
-
-<article class="post">
-  <a href="https://drinkingdojo.com">
-    <div
-      class="cta-banner"
-      style="
-        background-color: #ff9800;
-        text-align: center;
-        margin-bottom: 30px;
-        padding: 10px;
-        border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      ">
-      <p style="text-decoration: none; color: #212121; font-size: 20px; font-weight: bold; display: inline-block">
-        More Online Drinking Games <br />
-        🍻 Click Here! 🍻
-      </p>
-    </div>
-  </a>
-  
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
+<article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="h0 sm-width-full py-4 mt-3 inline-block" itemprop="name headline">{{ page.title }}</h1>
+  <div class="col-4 sm-width-full mt-1 border-top-thin ">
+    <p class="mb-3 py-2 bold h4"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+  <secton class="prose" itemprop="articleBody">
+      {{ content }}
+  </section>
 
-  {% include disqus.html %}
 </article>
+
+<!--<div class="container mx-auto px-2 py-2 clearfix">
+  {% comment %}{% include previous-next.html %}{% endcomment %}
+</div>-->

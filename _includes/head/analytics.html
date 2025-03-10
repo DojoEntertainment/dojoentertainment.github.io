@@ -1,0 +1,7 @@
+{% if site.company.analytics.google_id %}
+<!-- Analytics Meta Tags for Cookie Consent -->
+<meta name="ga-id" content="{{ site.company.analytics.google_id }}">
+{% if site.company.analytics.google_ads %}
+<meta name="ga-ads" content="true">
+{% endif %}
+{% endif %}
