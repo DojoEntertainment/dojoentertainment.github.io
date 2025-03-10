@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### Sip, Laugh, Repeat: Unforgettable Party Games with a Twist"
+title: "Sip, Laugh, Repeat: Unforgettable Party Games with a Twist"
 date: 2025-03-04 12:05:10 +0100
 permalink: /sip-laugh-repeat-unforgettable-party-games-with-a-twist/
 ---
