@@ -6,8 +6,6 @@ permalink: /marvelous-sips-with-marvel-studios/
 ---
 
 
-### Introduction
-
 Welcome to the ultimate guide for a night of fun with friends inspired by the cinematic universe we all love—Marvel Studios. Whether you’re a die-hard fan or just looking to spice up your movie night, these Marvel-themed party games are sure to be a hit. Grab your favorite drinks and get ready for an adventure through the Marvel Cinematic Universe (MCU) with our engaging and exciting "Marvelous Sips" game.
 
 ### What You'll Need

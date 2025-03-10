@@ -6,8 +6,6 @@ permalink: /paddy-pimblett-party-punch-up/
 ---
 
 
-### Introduction
-
 Craving a night full of fun, laughter, and perhaps a touch of chaos? Look no further than an exciting drinking game inspired by the charismatic UFC fighter, Paddy Pimblett. Known for his dynamic personality and flair in the octagon, Paddy Pimblett has become a sensational trend, and what better way to celebrate his spirit than with a themed drinking game? Whether you're a fan of mixed martial arts or just enjoy a good party, this game will surely deliver a knockout of a night! 
 
 ### Game Overview

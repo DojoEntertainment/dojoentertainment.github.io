@@ -6,8 +6,6 @@ permalink: /nyt-connections-hints-and-the-world-of-fun-sips/
 ---
 
 
-### Introduction
-
 Welcome to a world where wordplay meets sipping fun! Inspired by the trending curiosity around "NYT Connections Hints," we've crafted a unique game that blends the challenge of word puzzles with the excitement of a classic drinking game. Whether you're a word nerd, a party lover, or both, this game is a surefire way to spice up your next gathering.
 
 ### What You'll Need

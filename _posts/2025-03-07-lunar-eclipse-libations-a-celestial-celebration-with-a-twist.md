@@ -6,8 +6,6 @@ permalink: /lunar-eclipse-libations-a-celestial-celebration-with-a-twist/
 ---
 
 
-### Introduction
-
 The universe is full of wonders, and few celestial events capture our imagination quite like a lunar eclipse. Watching the moon slowly veil itself in Earth's shadow is a mesmerizing experience, perfect for gathering with friends and creating lasting memories. For those looking to add an extra layer of excitement to this cosmic spectacle, why not try out a themed drinking game? Below, we'll explore how to enjoy a "Lunar Eclipse Libations" game, perfect for your next moonlit gathering.
 
 ### Materials Needed
