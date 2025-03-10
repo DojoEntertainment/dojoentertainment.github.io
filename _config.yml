@@ -4,6 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Drinking Dojo Blog
+title: Drinking Dojo Blog
 
 # Short bio or description (displayed in the header)
 description: Your hub for party games!
@@ -23,7 +24,7 @@ footer-links:
   flickr:
   github:
   instagram:
-  linkedin: company/98800908/
+  linkedin: company/drinking-dojo/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -40,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://drinkingdojo.com/
+url: https://blog.drinkingdojo.com/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ''
+baseurl: 
 
 #
 # !! You don't need to change any of the configuration flags below !!
