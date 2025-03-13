@@ -1,4 +1,12 @@
 // Add your custom SCSS here
-.h0 {
+.header-title {
   color: $color-primary-link;
+}
+
+.bold,
+h1, h2, h3, h4, h5, h6,
+h1 .link-primary,
+h2 .link-primary,
+h3 .link-primary {
+    font-weight: initial;
 }
