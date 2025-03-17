@@ -14,7 +14,8 @@ logo: images/dojoIcon.svg
 company:
   analytics:
     google_id: G-1PQ65P1MSM
-    google_ads: true
+    google_ads_id: ca-pub-9408341847472029
+    microsoft_clarity_id: p65kph0a3d
   cta:
     text: "Play drinking games online"
     url: "https://drinkingdojo.com/"
