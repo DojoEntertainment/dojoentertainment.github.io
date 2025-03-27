@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introducing Squiffy – The Ultimate Party Game!
+date: 2025-03-27 15:39:00 +0100
+permalink: /introducing-squiffy-the-ultimate-party-game/
 ---
 
 Say hello to chaos, connection, and unforgettable nights. Squiffy is the ultimate party game app for friends, couples, and lively house parties—now live at [**drinkingdojo.com/games/squiffy**](https://drinkingdojo.com/games/squiffy)! Packed with over 100 fun, flirty, and slightly unhinged prompts, it’s your new go-to for unforgettable nights.
