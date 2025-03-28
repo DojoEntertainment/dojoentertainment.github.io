@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Introducing Squiffy – The Ultimate Party Game!
-date: 2025-03-28 19:42:00 +0100
-permalink: /introducing-squiffy-the-ultimate-party-game/
 ---
 
-Say hello to chaos, connection, and unforgettable nights. Squiffy is the ultimate party game app for friends, couples, and lively house parties—now live at [**drinkingdojo.com/games/squiffy**](https://drinkingdojo.com/games/squiffy)! Packed with over 100 fun, flirty, and slightly unhinged prompts, it’s your new go-to for unforgettable nights.
+Say hello to chaos, connection, and unforgettable nights. Squiffy is the ultimate party game app for friends, couples, and lively house parties—now live at [**/games/squiffy**](/games/squiffy)! Packed with over 100 fun, flirty, and slightly unhinged prompts, it’s your new go-to for unforgettable nights.
 
 <script type="application/ld+json">
 {
@@ -36,77 +34,88 @@ Say hello to chaos, connection, and unforgettable nights. Squiffy is the ultimat
 
 ## What is Squiffy?
 
-Squiffy is a new kind of party game app built for unforgettable moments. Whether you’re on a first date, hosting a lively house party, or hanging out with your close friends, Squiffy brings people together with unexpected dares, juicy questions, and hilarious twists.
+Squiffy is a fast, fun, and chaotic drinking game made for real-world connection. Whether you’re on a first date, hosting a flat party, or vibing with your besties, Squiffy brings people together with juicy questions, hilarious dares, and total unpredictability.
 
-## Game Packs Included
-
-Squiffy comes with themed packs that set the tone—no matter your vibe:
-
-- 💋 **Date Night** – spicy questions and cheeky dares
-- 😏 **First Date** – break the ice or ease the tension
-- 😳 **Awkward Situations** – uncomfortable... in a fun way
-- 👀 **Party Pack** – you’ll just have to try it
-
-Whether you’re into flirty fun or total madness, Squiffy delivers.
-
-## Coming Soon: Build Your Own Pack
-
-That’s right. Soon you’ll be able to design your own Squiffy pack. Make it personal. Make it mischievous. Make it hilarious. From custom dares to friend-roasting prompts, the “Build Your Own Pack” feature lets your creativity run wild.
-
-## Who Should Play Squiffy?
-
-- Party enthusiasts who love a little drama
-- Couples who enjoy games with a twist
-- First-date adventurers
-- Best friends on a night in
-- You. Yes, you.
-
-If you’ve ever said, “Let’s just do one more round,” then Squiffy’s for you.
+---
 
 ## How to Play
 
-Just head to [**drinkingdojo.com/games/squiffy**](https://drinkingdojo.com/games/squiffy), open a game, and choose a pack. Pass the phone around and take turns answering or completing the prompts. It's that simple—and that dangerously fun.
+1. **Gather your crew** (and maybe a few drinks 🍻).  
+2. **Add everyone to the game.** The more, the messier.  
+3. **Start the game.** One person reads the cards out loud each round.  
+4. **Follow the prompts.** You’ll get a mix of truths, dares, questions, and mini challenges.  
+5. **Keep going.** There’s no official end—play until the chaos subsides (or everyone’s too giggly to continue).  
+
+🎯 The vibe? Silly, spicy, and social.  
+💡 The goal? Laugh, connect, and create some unforgettable memories.  
+🚨 The only rule? Drink responsibly and know your limits.
+
+You can find the full rules [here](/articles/squiffy).
+
+---
+
+## Game Packs Included
+
+Squiffy comes loaded with themed packs so you can match the mood:
+
+- 💋 **Date Night** – spicy questions and cheeky dares  
+- 😏 **First Date** – break the ice or break the tension  
+- 😳 **Awkward Situations** – uncomfortable... in a fun way  
+- 👀 **Party Pack** – you’ll just have to try it  
+
+Whether you’re into flirty fun or full-on chaos, Squiffy delivers.
+
+---
+
+## Coming Soon: Build Your Own Pack
+
+You asked for it. We’re building it.
+
+The upcoming **Build Your Own Pack** feature will let you create your own deck of dares, truths, and inside jokes. Perfect for roast nights, birthday parties, or just wreaking havoc in your friend group.
+
+---
+
+## Who Should Play Squiffy?
+
+- People who enjoy bad decisions  
+- Couples who like a little spice  
+- Friends who love roasting each other  
+- First-date adventurers  
+- You. Definitely you.
+
+---
 
 ## Start Playing Now
 
-Ready to spice things up?
+You can start playing right in your browser, no download needed.  
+👉 [**Click here to play Squiffy**](/games/squiffy)
 
-👉 [**Click here to play Squiffy**](https://drinkingdojo.com/games/squiffy)
-
-Or save it for tonight. But you won’t.
+---
 
 ## Frequently Asked Questions
 
-### What are the top party game apps for group gatherings?
+### What makes Squiffy different from other drinking games?
 
-There are several popular party game apps designed to enhance group gatherings. Some of the top-rated ones include:
+Squiffy blends structured gameplay with unpredictable prompts designed to keep the whole group laughing, blushing, and bonding. It’s made for real-world connection, not just tapping through cards.
 
-- **Heads Up!**
-- **Jackbox Party Pack**
-- **Psych!**
+### Is it mobile-friendly?
 
-Squiffy adds to this list by offering a unique blend of dares and questions tailored for various social settings.
+Yep. Squiffy is made for your phone, so you can play it at the bar, at home, or on the move.
 
-### How does Squiffy enhance social events?
+### Can I make my own deck?
 
-Squiffy introduces engaging prompts and challenges that encourage participants to interact, share laughs, and create memorable experiences.
+Soon! The custom pack builder is on the way, letting you create themed games for your crew.
 
-### Are there customizable options in Squiffy?
+### Is it free?
 
-Yes! Squiffy is introducing a "Build Your Own Pack" feature, allowing users to create personalized game packs.
+100%. Just open and play. You’ll be able to upgrade with premium packs later if you’re craving more variety.
 
-### Can Squiffy be played remotely with friends?
-
-It’s currently built for in-person fun, but remote-friendly features are being explored.
-
-### What age groups are suitable for Squiffy?
-
-Squiffy is for adults 18+, as some prompts include mature or drinking-related content.
+---
 
 ## Conclusion
 
-Squiffy is more than a party game—it’s a social spark in your pocket. Whether you're looking to stir up mischief or break the ice, it’s got you covered.
+Squiffy isn’t just a game—it’s an experience. Whether you’re getting to know someone new or causing chaos with old friends, it turns regular nights into legendary ones.
 
-Cheers to epic nights and unforgettable stories.  
+So grab your mates, shuffle the chaos, and hit play.  
 🥂  
 — The Drinking Dojo Team
