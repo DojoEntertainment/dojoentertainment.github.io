@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Load Google Analytics
   const loadGoogleAnalytics = function() {
     // Check if Google Analytics is already loaded
-    if (window.ga) {
+    if (window.dataLayer) {
       return;
     }
     
@@ -103,25 +103,30 @@ document.addEventListener('DOMContentLoaded', function() {
       return;
     }
     
-    // Create and append the Google Analytics script
+    // Create and append the Google Analytics script (gtag.js)
     const script = document.createElement('script');
     script.async = true;
-    script.src = 'https://www.google-analytics.com/analytics.js';
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
     
+    // Set up the onload handler to initialize gtag
     script.onload = function() {
-      window.ga = window.ga || function() {
-        (window.ga.q = window.ga.q || []).push(arguments);
-      };
-      window.ga.l = +new Date();
+      // Initialize the dataLayer and gtag function
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
       
       // Get page information from meta tags
       const pageUrl = document.querySelector('meta[name="page-url"]')?.getAttribute('content') || window.location.pathname;
       const pageTitle = document.querySelector('meta[name="page-title"]')?.getAttribute('content') || document.title;
       
-      window.ga('create', gaId, 'auto');
-      window.ga('send', 'pageview', {
-        'page': pageUrl,
-        'title': pageTitle
+      // Configure your Google Analytics property with GA4 parameters
+      gtag('config', gaId, {
+        'page_location': window.location.href,
+        'page_path': pageUrl,
+        'page_title': pageTitle,
+        'send_page_view': true
       });
     };
     
