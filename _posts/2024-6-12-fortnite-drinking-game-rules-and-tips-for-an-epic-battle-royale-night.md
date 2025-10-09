@@ -9,6 +9,8 @@ Fortnite, the wildly popular battle royale game by Epic Games, offers endless ex
 
 ![Fortnite Gaming](https://images.pexels.com/photos/7133640/pexels-photo-7133640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
+Click here to play the [Fortnite Battle Royal Drinking Game](https://drinkingdojo.com/game/d819b771-a41a-4101-a36c-6e432c10f4db)
+
 ### Why Play a Fortnite Drinking Game? 🎯🍻
 
 Fortnite’s dynamic gameplay, frequent updates, and various modes provide countless opportunities for fun. A drinking game adds an extra layer of excitement, making every victory and defeat more memorable. Whether you’re a seasoned player or a newcomer, this drinking game will have you and your friends laughing and cheering all night.
