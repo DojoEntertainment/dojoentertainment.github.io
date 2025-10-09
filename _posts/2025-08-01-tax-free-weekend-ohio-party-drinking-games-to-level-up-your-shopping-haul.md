@@ -63,6 +63,8 @@ Bring in some viral fun:
 
 If you want to take your house party ideas to the next level, check out [Drinking Dojo](https://drinkingdojo.com) for all the tools, dare challenges, and custom drinking game packs you need. Bring the mayhem, bend the rules, and let the good times roll.
 
+Click here to play the [Fortnite Battle Royal Drinking Game](https://drinkingdojo.com/game/d819b771-a41a-4101-a36c-6e432c10f4db)
+
 **Cheers to tax free weekend in Ohio—where the deals are hot, the drinks are cold, and the party never ends!**
 
 ## Frequently Asked Questions (FAQs)
