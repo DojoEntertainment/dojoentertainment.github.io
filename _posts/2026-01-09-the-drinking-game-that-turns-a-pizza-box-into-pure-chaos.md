@@ -83,7 +83,7 @@ Same game. Same chaos.
 Just cleaner, faster, and way easier to reuse.
 
 👉 **Check it out here if you’re hosting soon**  
-https://www.amazon.com/Pizza-Box-Party-Game-Dry-Erase/dp/B0F1W3HF53?maas=maas_adg_B8045B99F05B4BDD1ADEB4A1B3DEA470_afap_abs&ref_=aa_maas&tag=maas
+[View the Pizza Box Party Game on Amazon](https://www.amazon.com/Pizza-Box-Party-Game-Dry-Erase/dp/B0F1W3HF53?maas=maas_adg_B8045B99F05B4BDD1ADEB4A1B3DEA470_afap_abs&ref_=aa_maas&tag=maas)
 
 ---
 
