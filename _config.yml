@@ -9,6 +9,7 @@ title: Drinking Dojo Blog
 description: Your hub for party games!
 keywords: "drinking games, entertainment, party games, hygge"
 logo: images/dojoIcon.svg
+locale: en
 
 # Company details
 company:
@@ -50,6 +51,8 @@ company:
 # Navigation items
 navigation:
   header:
+    - title: "Game Guide"
+      url: "/drinking-games-guide/"
     - title: "Play Now"
       url: "https://drinkingdojo.com/"
   footer:

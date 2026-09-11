@@ -28,4 +28,64 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: full_base_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: full_base_url }}">
+
+  {% capture canonical_url %}{{ page.url | replace:'index.html','' | prepend: full_base_url }}{% endcapture %}
+  {% capture logo_url %}{{ '/' | append: site.logo | prepend: full_base_url }}{% endcapture %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://drinkingdojo.com/#organization",
+        "name": "Drinking Dojo",
+        "url": "https://drinkingdojo.com/",
+        "logo": {{ logo_url | jsonify }},
+        "email": {{ site.company.socials.email | jsonify }},
+        "sameAs": [
+          "https://www.youtube.com/@DrinkingDojo",
+          "https://www.facebook.com/DrinkingDojo",
+          "https://www.linkedin.com/company/drinking-dojo/"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ full_base_url }}/#website",
+        "url": {{ full_base_url | append: '/' | jsonify }},
+        "name": {{ site.title | jsonify }},
+        "description": {{ site.description | jsonify }},
+        "inLanguage": {{ site.locale | jsonify }},
+        "publisher": { "@id": "https://drinkingdojo.com/#organization" }
+      }{% if page.layout == 'post' %},
+      {
+        "@type": "BlogPosting",
+        "@id": "{{ canonical_url }}#article",
+        "url": {{ canonical_url | jsonify }},
+        "headline": {{ page.title | jsonify }},
+        "description": {{ site_description | strip | jsonify }},
+        "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+        "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+        "inLanguage": {{ page.lang | default: site.locale | jsonify }},
+        "author": { "@id": "https://drinkingdojo.com/#organization" },
+        "publisher": { "@id": "https://drinkingdojo.com/#organization" },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": {{ canonical_url | jsonify }} }
+      }{% endif %}{% if page.layout == 'home' %},
+      {
+        "@type": "ItemList",
+        "@id": "{{ canonical_url }}#articles",
+        "name": "Drinking game guides",
+        "itemListElement": [{% for post in paginator.posts %}
+          { "@type": "ListItem", "position": {{ forloop.index }}, "url": {{ post.url | prepend: full_base_url | jsonify }}, "name": {{ post.title | jsonify }} }{% unless forloop.last %},{% endunless %}{% endfor %}
+        ]
+      }{% endif %}{% if page.faq %},
+      {
+        "@type": "FAQPage",
+        "@id": "{{ canonical_url }}#faq",
+        "mainEntity": [{% for item in page.faq %}
+          { "@type": "Question", "name": {{ item.question | jsonify }}, "acceptedAnswer": { "@type": "Answer", "text": {{ item.answer | jsonify }} } }{% unless forloop.last %},{% endunless %}{% endfor %}
+        ]
+      }{% endif %}
+    ]
+  }
+  </script>
 </head>
